@@ -1,0 +1,429 @@
+[
+    {
+        "ticker": "BRYAT",
+        "name": "BORUSAN YATIRIM VE PAZARLAMA A.Ş.",
+        "time": "2024-03-10 16:42:00",
+        "class": "DG",
+        "disc_index": 1257286
+    },
+    {
+        "ticker": "FROTO",
+        "name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "time": "2024-03-09 01:56:00",
+        "class": "FR",
+        "disc_index": 1257275
+    },
+    {
+        "ticker": "FROTO",
+        "name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "time": "2024-03-09 01:55:00",
+        "class": "DG",
+        "disc_index": 1257274
+    },
+    {
+        "ticker": "FROTO",
+        "name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "time": "2024-03-09 01:55:00",
+        "class": "DG",
+        "disc_index": 1257273
+    },
+    {
+        "ticker": "FROTO",
+        "name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "time": "2024-03-09 01:54:00",
+        "class": "DG",
+        "disc_index": 1257272
+    },
+    {
+        "ticker": "FROTO",
+        "name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "time": "2024-03-09 01:53:00",
+        "class": "FR",
+        "disc_index": 1257271
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:27:00",
+        "class": "ODA",
+        "disc_index": 1257270
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:27:00",
+        "class": "DG",
+        "disc_index": 1257269
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:27:00",
+        "class": "ODA",
+        "disc_index": 1257268
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:26:00",
+        "class": "DG",
+        "disc_index": 1257267
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:26:00",
+        "class": "DG",
+        "disc_index": 1257265
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:26:00",
+        "class": "DG",
+        "disc_index": 1257264
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:20:00",
+        "class": "FR",
+        "disc_index": 1257259
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:20:00",
+        "class": "FR",
+        "disc_index": 1257258
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-09 00:19:00",
+        "class": "FR",
+        "disc_index": 1257257
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-08 20:18:00",
+        "class": "DG",
+        "disc_index": 1257213
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-08 20:17:00",
+        "class": "DG",
+        "disc_index": 1257212
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-08 20:16:00",
+        "class": "ODA",
+        "disc_index": 1257211
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-08 20:13:00",
+        "class": "ODA",
+        "disc_index": 1257210
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-08 20:12:00",
+        "class": "FR",
+        "disc_index": 1257209
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-08 20:11:00",
+        "class": "FR",
+        "disc_index": 1257208
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-08 20:10:00",
+        "class": "FR",
+        "disc_index": 1257207
+    },
+    {
+        "ticker": "ARCLK",
+        "name": "ARÇELİK A.Ş.",
+        "time": "2024-03-08 19:22:00",
+        "class": "ODA",
+        "disc_index": 1257187
+    },
+    {
+        "ticker": "ARCLK",
+        "name": "ARÇELİK A.Ş.",
+        "time": "2024-03-08 19:16:00",
+        "class": "ODA",
+        "disc_index": 1257183
+    },
+    {
+        "ticker": "AKCNS",
+        "name": "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 19:10:00",
+        "class": "ODA",
+        "disc_index": 1257182
+    },
+    {
+        "ticker": "AKCNS",
+        "name": "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 19:02:00",
+        "class": "ODA",
+        "disc_index": 1257181
+    },
+    {
+        "ticker": "AKCNS",
+        "name": "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:52:00",
+        "class": "ODA",
+        "disc_index": 1257179
+    },
+    {
+        "ticker": "BRSAN",
+        "name": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:48:00",
+        "class": "DG",
+        "disc_index": 1257178
+    },
+    {
+        "ticker": "BRSAN",
+        "name": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:44:00",
+        "class": "DG",
+        "disc_index": 1257177
+    },
+    {
+        "ticker": "BRSAN",
+        "name": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:44:00",
+        "class": "DG",
+        "disc_index": 1257176
+    },
+    {
+        "ticker": "BRSAN",
+        "name": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:43:00",
+        "class": "DG",
+        "disc_index": 1257175
+    },
+    {
+        "ticker": "BRSAN",
+        "name": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:42:00",
+        "class": "FR",
+        "disc_index": 1257174
+    },
+    {
+        "ticker": "BRSAN",
+        "name": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:41:00",
+        "class": "FR",
+        "disc_index": 1257173
+    },
+    {
+        "ticker": "ENERY",
+        "name": "ENERYA ENERJİ A.Ş.",
+        "time": "2024-03-08 18:34:00",
+        "class": "ODA",
+        "disc_index": 1257148
+    },
+    {
+        "ticker": "AHGAZ",
+        "name": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+        "time": "2024-03-08 18:33:00",
+        "class": "ODA",
+        "disc_index": 1257147
+    },
+    {
+        "ticker": "AKBNK",
+        "name": "AKBANK T.A.Ş.",
+        "time": "2024-03-08 18:28:00",
+        "class": "ODA",
+        "disc_index": 1257124
+    },
+    {
+        "ticker": "AKBNK",
+        "name": "AKBANK T.A.Ş.",
+        "time": "2024-03-08 18:25:00",
+        "class": "ODA",
+        "disc_index": 1257120
+    },
+    {
+        "ticker": "BIENY",
+        "name": "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.",
+        "time": "2024-03-08 18:21:00",
+        "class": "ODA",
+        "disc_index": 1257115
+    },
+    {
+        "ticker": "AGHOL",
+        "name": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
+        "time": "2024-03-08 18:13:00",
+        "class": "ODA",
+        "disc_index": 1257097
+    },
+    {
+        "ticker": "KOZAL",
+        "name": "KOZA ALTIN İŞLETMELERİ A.Ş.",
+        "time": "2024-03-08 18:11:00",
+        "class": "ODA",
+        "disc_index": 1257089
+    },
+    {
+        "ticker": "CWENE",
+        "name": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+        "time": "2024-03-08 16:15:00",
+        "class": "ODA",
+        "disc_index": 1256919
+    },
+    {
+        "ticker": "CANTE",
+        "name": "ÇAN2 TERMİK A.Ş.",
+        "time": "2024-03-08 14:50:00",
+        "class": "ODA",
+        "disc_index": 1256847
+    },
+    {
+        "ticker": "CCOLA",
+        "name": "COCA-COLA İÇECEK A.Ş.",
+        "time": "2024-03-08 13:50:00",
+        "class": "DG",
+        "disc_index": 1256798
+    },
+    {
+        "ticker": "AKBNK",
+        "name": "AKBANK T.A.Ş.",
+        "time": "2024-03-08 11:41:00",
+        "class": "ODA",
+        "disc_index": 1256691
+    },
+    {
+        "ticker": "ISMEN",
+        "name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+        "time": "2024-03-08 09:18:00",
+        "class": "ODA",
+        "disc_index": 1256638
+    },
+    {
+        "ticker": "ASTOR",
+        "name": "ASTOR ENERJİ A.Ş.",
+        "time": "2024-03-07 22:09:00",
+        "class": "ODA",
+        "disc_index": 1256570
+    },
+    {
+        "ticker": "ASTOR",
+        "name": "ASTOR ENERJİ A.Ş.",
+        "time": "2024-03-07 22:08:00",
+        "class": "ODA",
+        "disc_index": 1256569
+    },
+    {
+        "ticker": "EREGL",
+        "name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+        "time": "2024-03-07 18:57:00",
+        "class": "ODA",
+        "disc_index": 1256526
+    },
+    {
+        "ticker": "ENERY",
+        "name": "ENERYA ENERJİ A.Ş.",
+        "time": "2024-03-07 18:31:00",
+        "class": "ODA",
+        "disc_index": 1256503
+    },
+    {
+        "ticker": "AHGAZ",
+        "name": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+        "time": "2024-03-07 18:27:00",
+        "class": "ODA",
+        "disc_index": 1256496
+    },
+    {
+        "ticker": "CWENE",
+        "name": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+        "time": "2024-03-07 18:23:00",
+        "class": "ODA",
+        "disc_index": 1256494
+    },
+    {
+        "ticker": "ENKAI",
+        "name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "time": "2024-03-07 18:15:00",
+        "class": "DG",
+        "disc_index": 1256466
+    },
+    {
+        "ticker": "ENKAI",
+        "name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "time": "2024-03-07 18:13:00",
+        "class": "ODA",
+        "disc_index": 1256463
+    },
+    {
+        "ticker": "ISGYO",
+        "name": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "time": "2024-03-07 17:27:00",
+        "class": "DG",
+        "disc_index": 1256424
+    },
+    {
+        "ticker": "BOBET",
+        "name": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+        "time": "2024-03-07 16:58:00",
+        "class": "ODA",
+        "disc_index": 1256397
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-07 14:12:00",
+        "class": "ODA",
+        "disc_index": 1256313
+    },
+    {
+        "ticker": "ENERY",
+        "name": "ENERYA ENERJİ A.Ş.",
+        "time": "2024-03-07 13:25:00",
+        "class": "ODA",
+        "disc_index": 1256299
+    },
+    {
+        "ticker": "AHGAZ",
+        "name": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+        "time": "2024-03-07 13:25:00",
+        "class": "ODA",
+        "disc_index": 1256298
+    },
+    {
+        "ticker": "ARCLK",
+        "name": "ARÇELİK A.Ş.",
+        "time": "2024-03-07 13:08:00",
+        "class": "ODA",
+        "disc_index": 1256292
+    },
+    {
+        "ticker": "ASTOR",
+        "name": "ASTOR ENERJİ A.Ş.",
+        "time": "2024-03-07 09:57:00",
+        "class": "ODA",
+        "disc_index": 1256208
+    },
+    {
+        "ticker": "ISMEN",
+        "name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+        "time": "2024-03-07 09:10:00",
+        "class": "ODA",
+        "disc_index": 1256193
+    }
+]

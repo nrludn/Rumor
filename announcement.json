@@ -425,5 +425,152 @@
         "time": "2024-03-07 09:10:00",
         "class": "ODA",
         "disc_index": 1256193
+    },
+    {
+        "ticker": "EREGL",
+        "name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+        "time": "2024-03-11 18:54:00",
+        "class": "ODA",
+        "disc_index": 1257686
+    },
+    {
+        "ticker": "EREGL",
+        "name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+        "time": "2024-03-11 18:53:00",
+        "class": "ODA",
+        "disc_index": 1257684
+    },
+    {
+        "ticker": "ISDMR",
+        "name": "İSKENDERUN DEMİR VE ÇELİK A.Ş.",
+        "time": "2024-03-11 18:52:00",
+        "class": "ODA",
+        "disc_index": 1257683
+    },
+    {
+        "ticker": "DOAS",
+        "name": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+        "time": "2024-03-11 18:30:00",
+        "class": "ODA",
+        "disc_index": 1257663
+    },
+    {
+        "ticker": "ENERY",
+        "name": "ENERYA ENERJİ A.Ş.",
+        "time": "2024-03-11 18:30:00",
+        "class": "ODA",
+        "disc_index": 1257662
+    },
+    {
+        "ticker": "AHGAZ",
+        "name": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+        "time": "2024-03-11 18:28:00",
+        "class": "ODA",
+        "disc_index": 1257660
+    },
+    {
+        "ticker": "AKBNK",
+        "name": "AKBANK T.A.Ş.",
+        "time": "2024-03-11 18:22:00",
+        "class": "ODA",
+        "disc_index": 1257652
+    },
+    {
+        "ticker": "AKBNK",
+        "name": "AKBANK T.A.Ş.",
+        "time": "2024-03-11 18:21:00",
+        "class": "ODA",
+        "disc_index": 1257647
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-11 18:14:00",
+        "class": "DG",
+        "disc_index": 1257620
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-11 18:13:00",
+        "class": "DG",
+        "disc_index": 1257619
+    },
+    {
+        "ticker": "KOZAL",
+        "name": "KOZA ALTIN İŞLETMELERİ A.Ş.",
+        "time": "2024-03-11 18:13:00",
+        "class": "ODA",
+        "disc_index": 1257616
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-11 18:12:00",
+        "class": "DG",
+        "disc_index": 1257610
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-11 17:35:00",
+        "class": "ODA",
+        "disc_index": 1257568
+    },
+    {
+        "ticker": "ENJSA",
+        "name": "ENERJİSA ENERJİ A.Ş.",
+        "time": "2024-03-11 17:13:00",
+        "class": "ODA",
+        "disc_index": 1257546
+    },
+    {
+        "ticker": "ISMEN",
+        "name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+        "time": "2024-03-11 16:59:00",
+        "class": "ODA",
+        "disc_index": 1257525
+    },
+    {
+        "ticker": "GRM",
+        "name": "GARANTİ YATIRIM MENKUL KIYMETLER A.Ş.",
+        "time": "2024-03-11 15:16:00",
+        "class": "DG",
+        "disc_index": 1257469
+    },
+    {
+        "ticker": "EKGYO",
+        "name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "time": "2024-03-11 11:09:00",
+        "class": "DG",
+        "disc_index": 1257360
+    },
+    {
+        "ticker": "EKGYO",
+        "name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "time": "2024-03-11 11:08:00",
+        "class": "ODA",
+        "disc_index": 1257358
+    },
+    {
+        "ticker": "BIENY",
+        "name": "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.",
+        "time": "2024-03-11 10:44:00",
+        "class": "ODA",
+        "disc_index": 1257347
+    },
+    {
+        "ticker": "GESAN",
+        "name": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+        "time": "2024-03-11 09:26:00",
+        "class": "ODA",
+        "disc_index": 1257309
+    },
+    {
+        "ticker": "ISMEN",
+        "name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+        "time": "2024-03-11 09:03:00",
+        "class": "ODA",
+        "disc_index": 1257303
     }
 ]
